@@ -2,7 +2,7 @@
 
 ![Project Logo](images/logo.png)
 
-NAuto is a tool designed to automate network tasks and streamline processes related to network device management (Primarily for Linux atm). The repository is structured for extensibility and ease of use, providing users with a simple way to define and manage network targets through configuration files.
+NAuto is a tool designed to automate network tasks and streamline processes related to network device management (Primarily for Unix operating systems atm). The repository is structured for extensibility and ease of use, providing users with a simple way to define and manage network targets through configuration files.
 
 ## Features
 
