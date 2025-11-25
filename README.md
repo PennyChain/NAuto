@@ -22,7 +22,6 @@ NAuto is a tool designed to automate network tasks and streamline processes rela
      ```
      pip install -r requirements.txt
      ```
-   - Ensure you have the required runtime and dependencies according to your project's language (check specific language setup below).
 
 4. **Setup your targets list:**
    - Create a file named `targets.txt` in the project root directory.
@@ -41,7 +40,6 @@ NAuto is a tool designed to automate network tasks and streamline processes rela
      python3 NAuto.py
      python3 Document.py
      ```
-   - Refer to the documentation or main entrypoint for instructions on executing the automation tasks.
 
 ## Contributing
 
